@@ -50,7 +50,7 @@ html {
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display: flex;
+    display: inline-flex;
   }
   
     .cardGroup__card {
